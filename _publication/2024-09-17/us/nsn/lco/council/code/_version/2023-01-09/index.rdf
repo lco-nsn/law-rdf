@@ -1,0 +1,525 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-17</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/us/nsn/lco/council/code"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Title TCT Tribal Court(§§ TCT.1.1.010 – TCT.5.4.010)
+Title MCC Meetings, Committees, and Commissions(§§ MCC.1.1.010 – MCC.6.3.080)
+Title CTZ Citizenship(§§ CTZ.1.1.010 – CTZ.2.4.060)
+Title ELE Elections(§§ ELE.1.1.010 – ELE.2.4.170)
+Title CSV Conservation(§§ CSV.1.1.010 – CSV.8.11.010)
+Title DMR Domestic Relations(§§ DMR.1.1.010 – DMR.6.9.030)
+Title GNC General Conduct(§§ GNC.4.1.010 – GNC.5.3.050)
+Title VEH Vehicles(§§ VEH.3.1.010 – VEH.4.5.040)
+Title PHS Public Health and Safety(§§ PHS.1.1.010 – PHS.7.1.400)
+Title PRP Property(§§ PRP.7.1.010 – PRP.9.8.050)
+Title CMP Commercial Practices(§§ CMP.1.1.010 – CMP.6.6.080)
+Title LLC Limited Liability Company(§§ LLC.1.1.010 – LLC.1.9.180)
+Title PAP Policies and Procedures(§§ PAP.1.1.010 – PAP.18.6.050)
+Attachments
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Lac Courte Oreilles Tribal Code of Law.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2024-09-17/2023-01-09]: Lac Courte Oreilles Tribal Code of Law</rdfs:label>
+    <oll:codifiedDate>2023-01-09</oll:codifiedDate>
+    <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-01-09</oll:dateCurrentThrough>
+    <oll:docId>Lac Courte Oreilles Tribal Code of Law</oll:docId>
+    <oll:hasChanges rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17"/>
+    <oll:lastCodifiedDocument rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/us/nsn/lco/council/resolutions/2023/2023-05"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/P.15.1.050">
+    <oll:cite xml:lang="en">Section P.15.1.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.1|P.15.1.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/P.15.1.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15">
+    <oll:cite xml:lang="en">Chapter PAP.15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.1">
+    <oll:cite xml:lang="en">Subchapter PAP.15.1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.1.010">
+    <oll:cite xml:lang="en">Section PAP.15.1.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.1|PAP.15.1.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.1.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.1.020">
+    <oll:cite xml:lang="en">Section PAP.15.1.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.1|PAP.15.1.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.1.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.1.030">
+    <oll:cite xml:lang="en">Section PAP.15.1.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.1|PAP.15.1.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.1.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.1.040">
+    <oll:cite xml:lang="en">Section PAP.15.1.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.1|PAP.15.1.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.1.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.1.060">
+    <oll:cite xml:lang="en">Section PAP.15.1.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.1|PAP.15.1.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.1.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.1.070">
+    <oll:cite xml:lang="en">Section PAP.15.1.070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.1|PAP.15.1.070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.1.070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.1.080">
+    <oll:cite xml:lang="en">Section PAP.15.1.080</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.1|PAP.15.1.080|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.1.080</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.2">
+    <oll:cite xml:lang="en">Subchapter PAP.15.2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.2.010">
+    <oll:cite xml:lang="en">Section PAP.15.2.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.2|PAP.15.2.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.2.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3">
+    <oll:cite xml:lang="en">Subchapter PAP.15.3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3.010">
+    <oll:cite xml:lang="en">Section PAP.15.3.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.3|PAP.15.3.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.3.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3.020">
+    <oll:cite xml:lang="en">Section PAP.15.3.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.3|PAP.15.3.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.3.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3.030">
+    <oll:cite xml:lang="en">Section PAP.15.3.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.3|PAP.15.3.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.3.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3.040">
+    <oll:cite xml:lang="en">Section PAP.15.3.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.3|PAP.15.3.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.3.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3.050">
+    <oll:cite xml:lang="en">Section PAP.15.3.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.3|PAP.15.3.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.3.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3.060">
+    <oll:cite xml:lang="en">Section PAP.15.3.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.3|PAP.15.3.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.3.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3.070">
+    <oll:cite xml:lang="en">Section PAP.15.3.070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.3|PAP.15.3.070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.3.070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3.080">
+    <oll:cite xml:lang="en">Section PAP.15.3.080</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.3|PAP.15.3.080|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.3.080</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3.090">
+    <oll:cite xml:lang="en">Section PAP.15.3.090</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.3|PAP.15.3.090|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.3.090</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3.100">
+    <oll:cite xml:lang="en">Section PAP.15.3.100</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.3|PAP.15.3.100|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.3.100</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.4">
+    <oll:cite xml:lang="en">Subchapter PAP.15.4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.4.010">
+    <oll:cite xml:lang="en">Section PAP.15.4.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.4|PAP.15.4.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.4.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.4.020">
+    <oll:cite xml:lang="en">Section PAP.15.4.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.4|PAP.15.4.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.4.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.4.030">
+    <oll:cite xml:lang="en">Section PAP.15.4.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.4|PAP.15.4.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.4.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.4.040">
+    <oll:cite xml:lang="en">Section PAP.15.4.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.4|PAP.15.4.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.4.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.4.050">
+    <oll:cite xml:lang="en">Section PAP.15.4.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.4|PAP.15.4.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.4.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.4.060">
+    <oll:cite xml:lang="en">Section PAP.15.4.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.4|PAP.15.4.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.4.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.4.070">
+    <oll:cite xml:lang="en">Section PAP.15.4.070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.4|PAP.15.4.070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.4.070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.5">
+    <oll:cite xml:lang="en">Subchapter PAP.15.5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.5.010">
+    <oll:cite xml:lang="en">Section PAP.15.5.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.5|PAP.15.5.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.5.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.5.020">
+    <oll:cite xml:lang="en">Section PAP.15.5.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.5|PAP.15.5.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.5.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.5.030">
+    <oll:cite xml:lang="en">Section PAP.15.5.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.5|PAP.15.5.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.5.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.5.040">
+    <oll:cite xml:lang="en">Section PAP.15.5.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.5|PAP.15.5.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.5.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.5.050">
+    <oll:cite xml:lang="en">Section PAP.15.5.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.5|PAP.15.5.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.5.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.5.060">
+    <oll:cite xml:lang="en">Section PAP.15.5.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.5|PAP.15.5.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.5.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.5.070">
+    <oll:cite xml:lang="en">Section PAP.15.5.070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.5|PAP.15.5.070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.5.070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6">
+    <oll:cite xml:lang="en">Subchapter PAP.15.6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.010">
+    <oll:cite xml:lang="en">Section PAP.15.6.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.6|PAP.15.6.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.6.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.020">
+    <oll:cite xml:lang="en">Section PAP.15.6.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.6|PAP.15.6.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.6.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.030">
+    <oll:cite xml:lang="en">Section PAP.15.6.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.6|PAP.15.6.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.6.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.040">
+    <oll:cite xml:lang="en">Section PAP.15.6.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.6|PAP.15.6.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.6.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.050">
+    <oll:cite xml:lang="en">Section PAP.15.6.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.6|PAP.15.6.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.6.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.060">
+    <oll:cite xml:lang="en">Section PAP.15.6.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.6|PAP.15.6.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.6.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.070">
+    <oll:cite xml:lang="en">Section PAP.15.6.070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.6|PAP.15.6.070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.6.070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.080">
+    <oll:cite xml:lang="en">Section PAP.15.6.080</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.6|PAP.15.6.080|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.6.080</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.090">
+    <oll:cite xml:lang="en">Section PAP.15.6.090</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.6|PAP.15.6.090|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.6.090</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.100">
+    <oll:cite xml:lang="en">Section PAP.15.6.100</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.6|PAP.15.6.100|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.6.100</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.110">
+    <oll:cite xml:lang="en">Section PAP.15.6.110</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.6|PAP.15.6.110|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.6.110</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.120">
+    <oll:cite xml:lang="en">Section PAP.15.6.120</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.6|PAP.15.6.120|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.6.120</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.130">
+    <oll:cite xml:lang="en">Section PAP.15.6.130</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.6|PAP.15.6.130|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.6.130</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.140">
+    <oll:cite xml:lang="en">Section PAP.15.6.140</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.6|PAP.15.6.140|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.6.140</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.15">
+    <oll:cite xml:lang="en">Section PAP.15.6.15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.6|PAP.15.6.15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.6.15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.160">
+    <oll:cite xml:lang="en">Section PAP.15.6.160</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.6|PAP.15.6.160|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.6.160</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.170">
+    <oll:cite xml:lang="en">Section PAP.15.6.170</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.6|PAP.15.6.170|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.6.170</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.7">
+    <oll:cite xml:lang="en">Subchapter PAP.15.7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.7.010">
+    <oll:cite xml:lang="en">Section PAP.15.7.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.7|PAP.15.7.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.7.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.7.020">
+    <oll:cite xml:lang="en">Section PAP.15.7.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.7|PAP.15.7.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.7.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.7.030">
+    <oll:cite xml:lang="en">Section PAP.15.7.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.15|PAP.15.7|PAP.15.7.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.15.7.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/_changes">
+    <rdf:_10 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.1.080"/>
+    <rdf:_11 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.2"/>
+    <rdf:_12 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.2.010"/>
+    <rdf:_13 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3"/>
+    <rdf:_14 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3.010"/>
+    <rdf:_15 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3.020"/>
+    <rdf:_16 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3.030"/>
+    <rdf:_17 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3.040"/>
+    <rdf:_18 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3.050"/>
+    <rdf:_19 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3.060"/>
+    <rdf:_1 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/P.15.1.050"/>
+    <rdf:_20 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3.070"/>
+    <rdf:_21 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3.080"/>
+    <rdf:_22 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3.090"/>
+    <rdf:_23 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.3.100"/>
+    <rdf:_24 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.4"/>
+    <rdf:_25 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.4.010"/>
+    <rdf:_26 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.4.020"/>
+    <rdf:_27 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.4.030"/>
+    <rdf:_28 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.4.040"/>
+    <rdf:_29 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.4.050"/>
+    <rdf:_2 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15"/>
+    <rdf:_30 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.4.060"/>
+    <rdf:_31 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.4.070"/>
+    <rdf:_32 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.5"/>
+    <rdf:_33 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.5.010"/>
+    <rdf:_34 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.5.020"/>
+    <rdf:_35 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.5.030"/>
+    <rdf:_36 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.5.040"/>
+    <rdf:_37 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.5.050"/>
+    <rdf:_38 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.5.060"/>
+    <rdf:_39 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.5.070"/>
+    <rdf:_3 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.1"/>
+    <rdf:_40 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6"/>
+    <rdf:_41 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.010"/>
+    <rdf:_42 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.020"/>
+    <rdf:_43 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.030"/>
+    <rdf:_44 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.040"/>
+    <rdf:_45 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.050"/>
+    <rdf:_46 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.060"/>
+    <rdf:_47 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.070"/>
+    <rdf:_48 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.080"/>
+    <rdf:_49 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.090"/>
+    <rdf:_4 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.1.010"/>
+    <rdf:_50 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.100"/>
+    <rdf:_51 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.110"/>
+    <rdf:_52 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.120"/>
+    <rdf:_53 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.130"/>
+    <rdf:_54 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.140"/>
+    <rdf:_55 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.15"/>
+    <rdf:_56 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.160"/>
+    <rdf:_57 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.6.170"/>
+    <rdf:_58 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.7"/>
+    <rdf:_59 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.7.010"/>
+    <rdf:_5 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.1.020"/>
+    <rdf:_60 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.7.020"/>
+    <rdf:_61 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.7.030"/>
+    <rdf:_6 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.1.030"/>
+    <rdf:_7 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.1.040"/>
+    <rdf:_8 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.1.060"/>
+    <rdf:_9 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2023-01-09/us/nsn/lco/council/code/PAP.15.1.070"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
