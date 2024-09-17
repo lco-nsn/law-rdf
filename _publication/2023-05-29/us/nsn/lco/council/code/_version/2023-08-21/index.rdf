@@ -1,0 +1,734 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-05-29</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/us/nsn/lco/council/code"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Title TCT Tribal Court(§§ TCT.1.1.010 – TCT.5.4.010)
+Title MCC Meetings, Committees, and Commissions(§§ MCC.1.1.010 – MCC.2.6.020)
+Title CTZ Citizenship(§§ CTZ.1.1.010 – CTZ.2.4.060)
+Title ELE Elections(§§ ELE.1.1.010 – ELE.2.4.170)
+Title CSV Conservation(§§ CSV.1.1.010 – CSV.8.11.010)
+Title DMR Domestic Relations(§§ DMR.1.1.010 – DMR.6.9.030)
+Title GNC General Conduct(§§ GNC.4.1.010 – GNC.5.3.050)
+Title VEH Vehicles(§§ VEH.3.1.010 – VEH.4.5.040)
+Title PHS Public Health and Safety(§§ PHS.1.1.010 – PHS.7.1.400)
+Title PRP Property(§§ PRP.7.1.010 – PRP.10.5.160)
+Title CMP Commercial Practices(§§ CMP.1.1.010 – CMP.6.6.080)
+Title LLC Limited Liability Company(§§ LLC.1.1.010 – LLC.1.9.180)
+Title ITP Information Technology Policy(§§ ITP.1.1.010 – ITP.1.5.010)
+Title PAP Policies and Procedures(§§ PAP.1.1.010 – PAP.22.11.040)
+Attachments
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Lac Courte Oreilles Tribal Code of Law.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2023-05-29/2023-08-21]: Lac Courte Oreilles Tribal Code of Law</rdfs:label>
+    <oll:codifiedDate>2023-08-21</oll:codifiedDate>
+    <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-21</oll:dateCurrentThrough>
+    <oll:docId>Lac Courte Oreilles Tribal Code of Law</oll:docId>
+    <oll:hasChanges rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29"/>
+    <oll:lastCodifiedDocument rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/us/nsn/lco/council/resolutions/2023/2023-108"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1">
+    <oll:cite xml:lang="en">Chapter MCC.1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.1">
+    <oll:cite xml:lang="en">Subchapter MCC.1.1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.1.010">
+    <oll:cite xml:lang="en">Section MCC.1.1.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.1|MCC.1.1.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.1.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.1.020">
+    <oll:cite xml:lang="en">Section MCC.1.1.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.1|MCC.1.1.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.1.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.1.030">
+    <oll:cite xml:lang="en">Section MCC.1.1.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.1|MCC.1.1.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.1.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.1.040">
+    <oll:cite xml:lang="en">Section MCC.1.1.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.1|MCC.1.1.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.1.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.1.050">
+    <oll:cite xml:lang="en">Section MCC.1.1.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.1|MCC.1.1.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.1.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.1.060">
+    <oll:cite xml:lang="en">Section MCC.1.1.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.1|MCC.1.1.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.1.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.1.070">
+    <oll:cite xml:lang="en">Section MCC.1.1.070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.1|MCC.1.1.070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.1.070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.1.080">
+    <oll:cite xml:lang="en">Section MCC.1.1.080</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.1|MCC.1.1.080|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.1.080</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.10">
+    <oll:cite xml:lang="en">Subchapter MCC.1.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.10.010">
+    <oll:cite xml:lang="en">Section MCC.1.10.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.10|MCC.1.10.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.10.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.11">
+    <oll:cite xml:lang="en">Subchapter MCC.1.11</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.11|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.11</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.11.010">
+    <oll:cite xml:lang="en">Section MCC.1.11.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.11|MCC.1.11.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.11.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.11.020">
+    <oll:cite xml:lang="en">Section MCC.1.11.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.11|MCC.1.11.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.11.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.11.030">
+    <oll:cite xml:lang="en">Section MCC.1.11.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.11|MCC.1.11.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.11.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.11.040">
+    <oll:cite xml:lang="en">Section MCC.1.11.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.11|MCC.1.11.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.11.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.11.050">
+    <oll:cite xml:lang="en">Section MCC.1.11.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.11|MCC.1.11.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.11.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.11.060">
+    <oll:cite xml:lang="en">Section MCC.1.11.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.11|MCC.1.11.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.11.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.11.070">
+    <oll:cite xml:lang="en">Section MCC.1.11.070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.11|MCC.1.11.070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.11.070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.11.080">
+    <oll:cite xml:lang="en">Section MCC.1.11.080</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.11|MCC.1.11.080|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.11.080</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.11.090">
+    <oll:cite xml:lang="en">Section MCC.1.11.090</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.11|MCC.1.11.090|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.11.090</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.12">
+    <oll:cite xml:lang="en">Subchapter MCC.1.12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.12.010">
+    <oll:cite xml:lang="en">Section MCC.1.12.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.12|MCC.1.12.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.12.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.2">
+    <oll:cite xml:lang="en">Subchapter MCC.1.2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.2.010">
+    <oll:cite xml:lang="en">Section MCC.1.2.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.2|MCC.1.2.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.2.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.3">
+    <oll:cite xml:lang="en">Subchapter MCC.1.3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.3.010">
+    <oll:cite xml:lang="en">Section MCC.1.3.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.3|MCC.1.3.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.3.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.3.020">
+    <oll:cite xml:lang="en">Section MCC.1.3.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.3|MCC.1.3.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.3.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.3.030">
+    <oll:cite xml:lang="en">Section MCC.1.3.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.3|MCC.1.3.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.3.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.3.040">
+    <oll:cite xml:lang="en">Section MCC.1.3.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.3|MCC.1.3.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.3.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.3.050">
+    <oll:cite xml:lang="en">Section MCC.1.3.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.3|MCC.1.3.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.3.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.3.060">
+    <oll:cite xml:lang="en">Section MCC.1.3.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.3|MCC.1.3.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.3.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.3.070">
+    <oll:cite xml:lang="en">Section MCC.1.3.070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.3|MCC.1.3.070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.3.070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.4">
+    <oll:cite xml:lang="en">Subchapter MCC.1.4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.4.010">
+    <oll:cite xml:lang="en">Section MCC.1.4.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.4|MCC.1.4.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.4.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.4.020">
+    <oll:cite xml:lang="en">Section MCC.1.4.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.4|MCC.1.4.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.4.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.4.030">
+    <oll:cite xml:lang="en">Section MCC.1.4.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.4|MCC.1.4.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.4.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.5">
+    <oll:cite xml:lang="en">Subchapter MCC.1.5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.5.010">
+    <oll:cite xml:lang="en">Section MCC.1.5.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.5|MCC.1.5.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.5.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.5.020">
+    <oll:cite xml:lang="en">Section MCC.1.5.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.5|MCC.1.5.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.5.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.5.030">
+    <oll:cite xml:lang="en">Section MCC.1.5.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.5|MCC.1.5.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.5.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.5.040">
+    <oll:cite xml:lang="en">Section MCC.1.5.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.5|MCC.1.5.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.5.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.5.050">
+    <oll:cite xml:lang="en">Section MCC.1.5.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.5|MCC.1.5.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.5.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.5.060">
+    <oll:cite xml:lang="en">Section MCC.1.5.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.5|MCC.1.5.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.5.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6">
+    <oll:cite xml:lang="en">Subchapter MCC.1.6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.010">
+    <oll:cite xml:lang="en">Section MCC.1.6.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.020">
+    <oll:cite xml:lang="en">Section MCC.1.6.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.030">
+    <oll:cite xml:lang="en">Section MCC.1.6.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.040">
+    <oll:cite xml:lang="en">Section MCC.1.6.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.050">
+    <oll:cite xml:lang="en">Section MCC.1.6.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.060">
+    <oll:cite xml:lang="en">Section MCC.1.6.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.070">
+    <oll:cite xml:lang="en">Section MCC.1.6.070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.080">
+    <oll:cite xml:lang="en">Section MCC.1.6.080</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.080|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.080</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.090">
+    <oll:cite xml:lang="en">Section MCC.1.6.090</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.090|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.090</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.100">
+    <oll:cite xml:lang="en">Section MCC.1.6.100</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.100|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.100</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.110">
+    <oll:cite xml:lang="en">Section MCC.1.6.110</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.110|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.110</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.120">
+    <oll:cite xml:lang="en">Section MCC.1.6.120</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.120|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.120</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.130">
+    <oll:cite xml:lang="en">Section MCC.1.6.130</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.130|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.130</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.140">
+    <oll:cite xml:lang="en">Section MCC.1.6.140</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.140|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.140</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.150">
+    <oll:cite xml:lang="en">Section MCC.1.6.150</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.150|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.150</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.160">
+    <oll:cite xml:lang="en">Section MCC.1.6.160</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.160|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.160</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.170">
+    <oll:cite xml:lang="en">Section MCC.1.6.170</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.170|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.170</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.180">
+    <oll:cite xml:lang="en">Section MCC.1.6.180</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.180|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.180</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.190">
+    <oll:cite xml:lang="en">Section MCC.1.6.190</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.190|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.190</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.200">
+    <oll:cite xml:lang="en">Section MCC.1.6.200</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.200|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.200</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.210">
+    <oll:cite xml:lang="en">Section MCC.1.6.210</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.210|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.210</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.220">
+    <oll:cite xml:lang="en">Section MCC.1.6.220</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.220|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.220</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.230">
+    <oll:cite xml:lang="en">Section MCC.1.6.230</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.230|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.230</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.240">
+    <oll:cite xml:lang="en">Section MCC.1.6.240</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.240|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.240</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.250">
+    <oll:cite xml:lang="en">Section MCC.1.6.250</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.250|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.250</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.260">
+    <oll:cite xml:lang="en">Section MCC.1.6.260</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.260|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.260</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.270">
+    <oll:cite xml:lang="en">Section MCC.1.6.270</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.270|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.270</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.280">
+    <oll:cite xml:lang="en">Section MCC.1.6.280</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.6|MCC.1.6.280|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.6.280</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.7">
+    <oll:cite xml:lang="en">Subchapter MCC.1.7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.7.010">
+    <oll:cite xml:lang="en">Section MCC.1.7.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.7|MCC.1.7.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.7.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.7.020">
+    <oll:cite xml:lang="en">Section MCC.1.7.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.7|MCC.1.7.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.7.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.7.030">
+    <oll:cite xml:lang="en">Section MCC.1.7.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.7|MCC.1.7.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.7.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.7.040">
+    <oll:cite xml:lang="en">Section MCC.1.7.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.7|MCC.1.7.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.7.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.7.050">
+    <oll:cite xml:lang="en">Section MCC.1.7.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.7|MCC.1.7.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.7.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.9">
+    <oll:cite xml:lang="en">Subchapter MCC.1.9</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.9|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.9</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.9.010">
+    <oll:cite xml:lang="en">Section MCC.1.9.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.9|MCC.1.9.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.9.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.9.020">
+    <oll:cite xml:lang="en">Section MCC.1.9.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.9|MCC.1.9.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.9.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.9.030">
+    <oll:cite xml:lang="en">Section MCC.1.9.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.9|MCC.1.9.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.9.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.9.040">
+    <oll:cite xml:lang="en">Section MCC.1.9.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.9|MCC.1.9.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.9.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.9.050">
+    <oll:cite xml:lang="en">Section MCC.1.9.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.9|MCC.1.9.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.9.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.9.060">
+    <oll:cite xml:lang="en">Section MCC.1.9.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|MCC|MCC.1|MCC.1.9|MCC.1.9.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/MCC.1.9.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/_changes">
+    <rdf:_10 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.1.080"/>
+    <rdf:_11 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.10"/>
+    <rdf:_12 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.10.010"/>
+    <rdf:_13 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.11"/>
+    <rdf:_14 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.11.010"/>
+    <rdf:_15 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.11.020"/>
+    <rdf:_16 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.11.030"/>
+    <rdf:_17 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.11.040"/>
+    <rdf:_18 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.11.050"/>
+    <rdf:_19 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.11.060"/>
+    <rdf:_1 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1"/>
+    <rdf:_20 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.11.070"/>
+    <rdf:_21 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.11.080"/>
+    <rdf:_22 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.11.090"/>
+    <rdf:_23 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.12"/>
+    <rdf:_24 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.12.010"/>
+    <rdf:_25 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.2"/>
+    <rdf:_26 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.2.010"/>
+    <rdf:_27 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.3"/>
+    <rdf:_28 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.3.010"/>
+    <rdf:_29 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.3.020"/>
+    <rdf:_2 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.1"/>
+    <rdf:_30 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.3.030"/>
+    <rdf:_31 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.3.040"/>
+    <rdf:_32 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.3.050"/>
+    <rdf:_33 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.3.060"/>
+    <rdf:_34 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.3.070"/>
+    <rdf:_35 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.4"/>
+    <rdf:_36 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.4.010"/>
+    <rdf:_37 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.4.020"/>
+    <rdf:_38 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.4.030"/>
+    <rdf:_39 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.5"/>
+    <rdf:_3 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.1.010"/>
+    <rdf:_40 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.5.010"/>
+    <rdf:_41 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.5.020"/>
+    <rdf:_42 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.5.030"/>
+    <rdf:_43 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.5.040"/>
+    <rdf:_44 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.5.050"/>
+    <rdf:_45 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.5.060"/>
+    <rdf:_46 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6"/>
+    <rdf:_47 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.010"/>
+    <rdf:_48 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.020"/>
+    <rdf:_49 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.030"/>
+    <rdf:_4 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.1.020"/>
+    <rdf:_50 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.040"/>
+    <rdf:_51 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.050"/>
+    <rdf:_52 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.060"/>
+    <rdf:_53 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.070"/>
+    <rdf:_54 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.080"/>
+    <rdf:_55 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.090"/>
+    <rdf:_56 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.100"/>
+    <rdf:_57 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.110"/>
+    <rdf:_58 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.120"/>
+    <rdf:_59 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.130"/>
+    <rdf:_5 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.1.030"/>
+    <rdf:_60 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.140"/>
+    <rdf:_61 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.150"/>
+    <rdf:_62 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.160"/>
+    <rdf:_63 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.170"/>
+    <rdf:_64 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.180"/>
+    <rdf:_65 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.190"/>
+    <rdf:_66 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.200"/>
+    <rdf:_67 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.210"/>
+    <rdf:_68 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.220"/>
+    <rdf:_69 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.230"/>
+    <rdf:_6 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.1.040"/>
+    <rdf:_70 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.240"/>
+    <rdf:_71 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.250"/>
+    <rdf:_72 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.260"/>
+    <rdf:_73 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.270"/>
+    <rdf:_74 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.6.280"/>
+    <rdf:_75 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.7"/>
+    <rdf:_76 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.7.010"/>
+    <rdf:_77 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.7.020"/>
+    <rdf:_78 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.7.030"/>
+    <rdf:_79 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.7.040"/>
+    <rdf:_7 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.1.050"/>
+    <rdf:_80 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.7.050"/>
+    <rdf:_81 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.9"/>
+    <rdf:_82 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.9.010"/>
+    <rdf:_83 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.9.020"/>
+    <rdf:_84 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.9.030"/>
+    <rdf:_85 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.9.040"/>
+    <rdf:_86 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.9.050"/>
+    <rdf:_87 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.9.060"/>
+    <rdf:_8 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.1.060"/>
+    <rdf:_9 rdf:resource="https://law.lco-nsn.gov/_publication/2023-05-29/_date/2023-08-21/us/nsn/lco/council/code/MCC.1.1.070"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,60 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2022-11-23/_date/2022-05-23/us/nsn/lco/council/code">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-11-23</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://law.lco-nsn.gov/_publication/2022-11-23/us/nsn/lco/council/code"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Title TCT Tribal Court(§§ TCT.1.1.010 – TCT.4.8.020)
+Title MCC Meetings, Committees, and Commissions(§§ MCC.1.1.010 – MCC.6.3.080)
+Title CTZ Citizenship(§§ CTZ.1.1.010 – CTZ.2.4.060)
+Title ELE Elections(§§ ELE.1.1.010 – ELE.2.4.170)
+Title CSV Conservation(§§ CSV.1.1.010 – CSV.8.11.010)
+Title DMR Domestic Relations(§§ DMR.1.1.010 – DMR.6.9.030)
+Title GNC General Conduct(§§ GNC.4.1.010 – GNC.5.3.040)
+Title VEH Vehicles(§§ VEH.3.1.010 – VEH.3.14.020)
+Title PHS Public Health and Safety(§§ PHS.1.1.010 – PHS.7.1.400)
+Title PRP Property(§§ PRP.7.1.010 – PRP.9.8.050)
+Title CMP Commercial Practices(§§ CMP.1.1.010 – CMP.6.6.080)
+Title PAP Policies and Procedures(§§ PAP.1.1.010 – PAP.18.6.050)
+Attachments
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Lac Courte Oreilles Tribal Code of Law.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2022-11-23/2022-05-23]: Lac Courte Oreilles Tribal Code of Law</rdfs:label>
+    <oll:codifiedDate>2022-05-23</oll:codifiedDate>
+    <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-23</oll:dateCurrentThrough>
+    <oll:docId>Lac Courte Oreilles Tribal Code of Law</oll:docId>
+    <oll:hasChanges rdf:resource="https://law.lco-nsn.gov/_publication/2022-11-23/_date/2022-05-23/us/nsn/lco/council/code/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.lco-nsn.gov/_publication/2022-11-23"/>
+    <oll:lastCodifiedDocument rdf:resource="https://law.lco-nsn.gov/_publication/2022-11-23/us/nsn/lco/council/resolutions/2022/2022-48"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2022-11-23/_date/2022-05-23/us/nsn/lco/council/code/PAP.1.6.040">
+    <oll:cite xml:lang="en">Section PAP.1.6.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.1|PAP.1.6|PAP.1.6.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.1.6.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2022-11-23/_date/2022-05-23/us/nsn/lco/council/code/PAP.4.6.040">
+    <oll:cite xml:lang="en">Section PAP.4.6.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.4|PAP.4.6|PAP.4.6.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.4.6.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2022-11-23/_date/2022-05-23/us/nsn/lco/council/code/PAP.5.6.040">
+    <oll:cite xml:lang="en">Section PAP.5.6.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|PAP|PAP.5|PAP.5.6|PAP.5.6.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/PAP.5.6.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2022-11-23/_date/2022-05-23/us/nsn/lco/council/code/_changes">
+    <rdf:_1 rdf:resource="https://law.lco-nsn.gov/_publication/2022-11-23/_date/2022-05-23/us/nsn/lco/council/code/PAP.1.6.040"/>
+    <rdf:_2 rdf:resource="https://law.lco-nsn.gov/_publication/2022-11-23/_date/2022-05-23/us/nsn/lco/council/code/PAP.4.6.040"/>
+    <rdf:_3 rdf:resource="https://law.lco-nsn.gov/_publication/2022-11-23/_date/2022-05-23/us/nsn/lco/council/code/PAP.5.6.040"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

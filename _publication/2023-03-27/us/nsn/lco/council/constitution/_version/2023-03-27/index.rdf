@@ -1,0 +1,41 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-03-27/_date/2023-03-27/us/nsn/lco/council/constitution">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-03-27</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.lco-nsn.gov/us/nsn/lco/council/constitution/us/nsn/lco/council/adopted/const.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.lco-nsn.gov/_publication/2023-03-27/us/nsn/lco/council/constitution"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Constitution of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin(§§ 1 – 3)
+Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin(§§ 1 – 2)
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Constitution and ByLaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Constitution"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2023-03-27/2023-03-27]: Lac Courte Oreilles Constitution and By-laws</rdfs:label>
+    <oll:codifiedDate>2023-03-27</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1966-11-02</oll:dateEffective>
+    <oll:docId>Lac Courte Oreilles Constitution and By-laws</oll:docId>
+    <oll:hasChanges rdf:resource="https://law.lco-nsn.gov/_publication/2023-03-27/_date/2023-03-27/us/nsn/lco/council/constitution/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.lco-nsn.gov/_publication/2023-03-27"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-03-27/_date/2023-03-27/us/nsn/lco/council/constitution/Constitution/V/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|V|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/V/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-03-27/_date/2023-03-27/us/nsn/lco/council/constitution/Constitution/VI">
+    <oll:cite xml:lang="en">Article VI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|VI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/VI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-03-27/_date/2023-03-27/us/nsn/lco/council/constitution/_changes">
+    <rdf:_1 rdf:resource="https://law.lco-nsn.gov/_publication/2023-03-27/_date/2023-03-27/us/nsn/lco/council/constitution/Constitution/V/1"/>
+    <rdf:_2 rdf:resource="https://law.lco-nsn.gov/_publication/2023-03-27/_date/2023-03-27/us/nsn/lco/council/constitution/Constitution/VI"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

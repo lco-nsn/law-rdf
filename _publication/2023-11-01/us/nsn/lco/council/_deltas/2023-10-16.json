@@ -1,0 +1,461 @@
+{
+  "data": [
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11",
+      "ptag": "container",
+      "cite": "Chapter PAP.11",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.1",
+      "ptag": "container",
+      "cite": "Subchapter PAP.11.1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.1",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.1|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.1.010",
+      "ptag": "section",
+      "cite": "Section PAP.11.1.010",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.1.010",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.1|PAP.11.1.010|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.1.020",
+      "ptag": "section",
+      "cite": "Section PAP.11.1.020",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.1.020",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.1|PAP.11.1.020|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.1.030",
+      "ptag": "section",
+      "cite": "Section PAP.11.1.030",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.1.030",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.1|PAP.11.1.030|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.1.040",
+      "ptag": "section",
+      "cite": "Section PAP.11.1.040",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.1.040",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.1|PAP.11.1.040|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.1.050",
+      "ptag": "section",
+      "cite": "Section PAP.11.1.050",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.1.050",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.1|PAP.11.1.050|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2",
+      "ptag": "container",
+      "cite": "Subchapter PAP.11.2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.010",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.010",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.010",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.010|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.020",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.020",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.020",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.020|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.030",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.030",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.030",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.030|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.040",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.040",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.040",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.040|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.050",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.050",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.050",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.050|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.060",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.060",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.060",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.060|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.070",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.070",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.070",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.070|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.080",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.080",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.080",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.080|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.090",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.090",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.090",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.090|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.100",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.100",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.100",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.100|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.110",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.110",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.110",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.110|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.120",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.120",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.120",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.120|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.130",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.130",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.130",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.130|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.140",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.140",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.140",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.140|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.150",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.150",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.150",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.150|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.160",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.160",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.160",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.160|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.170",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.170",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.170",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.170|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.180",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.180",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.180",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.180|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.190",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.190",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.190",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.190|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.200",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.200",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.200",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.200|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.210",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.210",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.210",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.210|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.220",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.220",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.220",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.220|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.11.2.230",
+      "ptag": "section",
+      "cite": "Section PAP.11.2.230",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.11.2.230",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.11|PAP.11.2|PAP.11.2.230|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2023",
+      "url": "/us/nsn/lco/council/resolutions/2023",
+      "lib_mpath": "lco-nsn/law-rdf|us/nsn/lco/council/resolutions|2023|",
+      "docs_changes": {
+        "Lac Courte Oreilles Tribal Governing Board Res. No. 2023-127": "Element added",
+        "Lac Courte Oreilles Tribal Governing Board Res. No. 2023-128": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Governing Board Res. No. 2023-127",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added",
+        "Element effective"
+      ],
+      "url": "/us/nsn/lco/council/resolutions/2023/2023-127",
+      "doc_mpath": "Lac Courte Oreilles Tribal Governing Board Res. No. 2023-127|",
+      "lib_mpath": "lco-nsn/law-rdf|us/nsn/lco/council/resolutions|2023|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Governing Board Res. No. 2023-128",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added",
+        "Element effective"
+      ],
+      "url": "/us/nsn/lco/council/resolutions/2023/2023-128",
+      "doc_mpath": "Lac Courte Oreilles Tribal Governing Board Res. No. 2023-128|",
+      "lib_mpath": "lco-nsn/law-rdf|us/nsn/lco/council/resolutions|2023|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2023-11-01",
+  "codified_date": "2023-10-16",
+  "reasons": {
+    "Lac Courte Oreilles Tribal Governing Board Res. No. 2023-127": [
+      "created",
+      "effective"
+    ],
+    "Lac Courte Oreilles Tribal Governing Board Res. No. 2023-128": [
+      "created",
+      "effective"
+    ]
+  }
+}

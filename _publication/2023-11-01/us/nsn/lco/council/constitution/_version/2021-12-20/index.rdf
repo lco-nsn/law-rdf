@@ -1,0 +1,391 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-11-01</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.lco-nsn.gov/us/nsn/lco/council/constitution/us/nsn/lco/council/adopted/const.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/us/nsn/lco/council/constitution"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Constitution of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin(§§ 1 – 3)
+Bylaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin(§§ 1 – 2)
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Constitution and ByLaws of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians of Wisconsin</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Constitution"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2023-11-01/2021-12-20]: Lac Courte Oreilles Constitution and By-laws</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-12-20</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1966-11-02</oll:dateEffective>
+    <oll:docId>Lac Courte Oreilles Constitution and By-laws</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws">
+    <oll:cite xml:lang="en">Bylaws</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|bylaws|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Bylaws</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/I">
+    <oll:cite xml:lang="en">Article I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|bylaws|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Bylaws/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/I/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|bylaws|I|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Bylaws/I/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/I/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|bylaws|I|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Bylaws/I/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/I/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|bylaws|I|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Bylaws/I/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/I/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|bylaws|I|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Bylaws/I/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/II">
+    <oll:cite xml:lang="en">Article II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|bylaws|II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Bylaws/II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/II/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|bylaws|II|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Bylaws/II/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/III">
+    <oll:cite xml:lang="en">Article III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|bylaws|III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Bylaws/III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/III/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|bylaws|III|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Bylaws/III/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/IV">
+    <oll:cite xml:lang="en">Article IV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|bylaws|IV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Bylaws/IV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/IV/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|bylaws|IV|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Bylaws/IV/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/IV/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|bylaws|IV|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Bylaws/IV/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution">
+    <oll:cite xml:lang="en">Constitution</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/I">
+    <oll:cite xml:lang="en">Article I</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|I|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/I</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/I/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|I|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/I/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/I/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|I|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/I/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/II">
+    <oll:cite xml:lang="en">Article II</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|II|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/II</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/II/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|II|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/II/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/II/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|II|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/II/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/II/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|II|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/II/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/II/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|II|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/II/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/III">
+    <oll:cite xml:lang="en">Article III</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|III|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/III</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/III/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|III|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/III/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/III/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|III|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/III/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/III/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|III|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/III/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/III/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|III|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/III/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/III/5">
+    <oll:cite xml:lang="en">Section 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|III|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/III/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/III/6">
+    <oll:cite xml:lang="en">Section 6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|III|6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/III/6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/III/7">
+    <oll:cite xml:lang="en">Section 7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|III|7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/III/7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/III/8">
+    <oll:cite xml:lang="en">Section 8</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|III|8|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/III/8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/IV">
+    <oll:cite xml:lang="en">Article IV</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|IV|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/IV</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/IV/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|IV|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/IV/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/IV/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|IV|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/IV/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/IV/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|IV|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/IV/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/IV/4">
+    <oll:cite xml:lang="en">Section 4</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|IV|4|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/IV/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/IV/5">
+    <oll:cite xml:lang="en">Section 5</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|IV|5|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/IV/5</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/IX">
+    <oll:cite xml:lang="en">Article IX</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|IX|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/IX</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/V">
+    <oll:cite xml:lang="en">Article V</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|V|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/V</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/V/1">
+    <oll:cite xml:lang="en">Section 1</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|V|1|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/V/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/V/2">
+    <oll:cite xml:lang="en">Section 2</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|V|2|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/V/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/V/3">
+    <oll:cite xml:lang="en">Section 3</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|V|3|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/V/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/VI">
+    <oll:cite xml:lang="en">Article VI</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|VI|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/VI</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/VII">
+    <oll:cite xml:lang="en">Article VII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|VII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/VII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/VIII">
+    <oll:cite xml:lang="en">Article VIII</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Constitution and By-laws|constitution|VIII|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/constitution/Constitution/VIII</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/_changes">
+    <rdf:_10 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/III"/>
+    <rdf:_11 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/III/1"/>
+    <rdf:_12 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/IV"/>
+    <rdf:_13 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/IV/1"/>
+    <rdf:_14 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/IV/2"/>
+    <rdf:_15 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution"/>
+    <rdf:_16 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/I"/>
+    <rdf:_17 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/I/1"/>
+    <rdf:_18 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/I/2"/>
+    <rdf:_19 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/II"/>
+    <rdf:_1 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution"/>
+    <rdf:_20 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/II/1"/>
+    <rdf:_21 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/II/2"/>
+    <rdf:_22 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/II/3"/>
+    <rdf:_23 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/II/4"/>
+    <rdf:_24 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/III"/>
+    <rdf:_25 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/III/1"/>
+    <rdf:_26 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/III/2"/>
+    <rdf:_27 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/III/3"/>
+    <rdf:_28 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/III/4"/>
+    <rdf:_29 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/III/5"/>
+    <rdf:_2 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws"/>
+    <rdf:_30 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/III/6"/>
+    <rdf:_31 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/III/7"/>
+    <rdf:_32 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/III/8"/>
+    <rdf:_33 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/IV"/>
+    <rdf:_34 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/IV/1"/>
+    <rdf:_35 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/IV/2"/>
+    <rdf:_36 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/IV/3"/>
+    <rdf:_37 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/IV/4"/>
+    <rdf:_38 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/IV/5"/>
+    <rdf:_39 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/IX"/>
+    <rdf:_3 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/I"/>
+    <rdf:_40 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/V"/>
+    <rdf:_41 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/V/1"/>
+    <rdf:_42 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/V/2"/>
+    <rdf:_43 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/V/3"/>
+    <rdf:_44 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/VI"/>
+    <rdf:_45 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/VII"/>
+    <rdf:_46 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Constitution/VIII"/>
+    <rdf:_4 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/I/1"/>
+    <rdf:_5 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/I/2"/>
+    <rdf:_6 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/I/3"/>
+    <rdf:_7 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/I/4"/>
+    <rdf:_8 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/II"/>
+    <rdf:_9 rdf:resource="https://law.lco-nsn.gov/_publication/2023-11-01/_date/2021-12-20/us/nsn/lco/council/constitution/Bylaws/II/1"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
