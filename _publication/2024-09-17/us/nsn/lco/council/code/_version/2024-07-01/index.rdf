@@ -1,0 +1,130 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-09-17</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/us/nsn/lco/council/code"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Title TCT Tribal Court(§§ TCT.1.1.010 – TCT.5.4.010)
+Title MCC Meetings, Committees, and Commissions(§§ MCC.2.1.010 – MCC.6.3.080)
+Title CTZ Citizenship(§§ CTZ.1.1.010 – CTZ.2.4.060)
+Title GWE General Welfare Exclusion(§§ GWE.1.1.010 – GWE.2.1.040)
+Title ELE Elections(§§ ELE.1.1.010 – ELE.2.4.170)
+Title CSV Conservation(§§ CSV.1.1.010 – CSV.8.11.010)
+Title DMR Domestic Relations(§§ DMR.1.1.010 – DMR.7.13.040)
+Title GNC General Conduct(§§ GNC.4.1.010 – GNC.5.3.050)
+Title VEH Vehicles(§§ VEH.3.1.010 – VEH.4.5.020)
+Title PHS Public Health and Safety(§§ PHS.1.1.010 – PHS.7.1.400)
+Title PRP Property(§§ PRP.5.1.010 – PRP.10.5.160)
+Title CMP Commercial Practices(§§ CMP.1.1.010 – CMP.6.6.080)
+Title LLC Limited Liability Company(§§ LLC.1.1.010 – LLC.1.9.180)
+Title ITP Information Technology Policy(§§ ITP.1.1.010 – ITP.1.5.010)
+Title TUC Utility Code(§§ TUC.1.1.010 – TUC.3.3.060)
+Title PAP Policies and Procedures(§§ PAP.1.1.010 – PAP.22.11.040)
+Attachments
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Lac Courte Oreilles Tribal Code of Law.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2024-09-17/2024-07-01]: Lac Courte Oreilles Tribal Code of Law</rdfs:label>
+    <oll:codifiedDate>2024-07-01</oll:codifiedDate>
+    <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-07-01</oll:dateCurrentThrough>
+    <oll:docId>Lac Courte Oreilles Tribal Code of Law</oll:docId>
+    <oll:hasChanges rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17"/>
+    <oll:lastCodifiedDocument rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/us/nsn/lco/council/resolutions/2024/2024-64"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.2.010">
+    <oll:cite xml:lang="en">Section VEH.4.2.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|VEH|VEH.4|VEH.4.2|VEH.4.2.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/VEH.4.2.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.3.010">
+    <oll:cite xml:lang="en">Section VEH.4.3.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|VEH|VEH.4|VEH.4.3|VEH.4.3.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/VEH.4.3.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.3.030">
+    <oll:cite xml:lang="en">Section VEH.4.3.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|VEH|VEH.4|VEH.4.3|VEH.4.3.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/VEH.4.3.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.3.060">
+    <oll:cite xml:lang="en">Section VEH.4.3.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|VEH|VEH.4|VEH.4.3|VEH.4.3.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/VEH.4.3.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.3.080">
+    <oll:cite xml:lang="en">Section VEH.4.3.080</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|VEH|VEH.4|VEH.4.3|VEH.4.3.080|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/VEH.4.3.080</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.4.010">
+    <oll:cite xml:lang="en">Section VEH.4.4.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|VEH|VEH.4|VEH.4.4|VEH.4.4.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/VEH.4.4.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.4.030">
+    <oll:cite xml:lang="en">Section VEH.4.4.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|VEH|VEH.4|VEH.4.4|VEH.4.4.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/VEH.4.4.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.5.015">
+    <oll:cite xml:lang="en">Section VEH.4.5.015</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|VEH|VEH.4|VEH.4.5|VEH.4.5.015|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/VEH.4.5.015</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.5.020">
+    <oll:cite xml:lang="en">Section VEH.4.5.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|VEH|VEH.4|VEH.4.5|VEH.4.5.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/VEH.4.5.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.5.030">
+    <oll:cite xml:lang="en">Section VEH.4.5.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|VEH|VEH.4|VEH.4.5|VEH.4.5.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/VEH.4.5.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.5.040">
+    <oll:cite xml:lang="en">Section VEH.4.5.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|VEH|VEH.4|VEH.4.5|VEH.4.5.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:reason xml:lang="en">Repealed</oll:reason>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/VEH.4.5.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/_changes">
+    <rdf:_10 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.5.030"/>
+    <rdf:_11 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.5.040"/>
+    <rdf:_1 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.2.010"/>
+    <rdf:_2 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.3.010"/>
+    <rdf:_3 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.3.030"/>
+    <rdf:_4 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.3.060"/>
+    <rdf:_5 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.3.080"/>
+    <rdf:_6 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.4.010"/>
+    <rdf:_7 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.4.030"/>
+    <rdf:_8 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.5.015"/>
+    <rdf:_9 rdf:resource="https://law.lco-nsn.gov/_publication/2024-09-17/_date/2024-07-01/us/nsn/lco/council/code/VEH.4.5.020"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
