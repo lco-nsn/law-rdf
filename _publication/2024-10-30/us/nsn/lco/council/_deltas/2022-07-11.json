@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2022",
+      "url": "/us/nsn/lco/council/resolutions/2022",
+      "lib_mpath": "lco-nsn/law-rdf|us/nsn/lco/council/resolutions|2022|",
+      "docs_changes": {
+        "Lac Courte Oreilles Tribal Governing Board Res. No. 2022-68": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Governing Board Res. No. 2022-68",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/resolutions/2022/2022-68",
+      "doc_mpath": "Lac Courte Oreilles Tribal Governing Board Res. No. 2022-68|",
+      "lib_mpath": "lco-nsn/law-rdf|us/nsn/lco/council/resolutions|2022|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Governing Board Res. No. 2022-68",
+      "path": "\u00a71",
+      "ptag": "section",
+      "cite": "Section 1",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/resolutions/2022/2022-68#1",
+      "doc_mpath": "Lac Courte Oreilles Tribal Governing Board Res. No. 2022-68|1|",
+      "lib_mpath": "lco-nsn/law-rdf|us/nsn/lco/council/resolutions|2022|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Governing Board Res. No. 2022-68",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "Section 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/resolutions/2022/2022-68#2",
+      "doc_mpath": "Lac Courte Oreilles Tribal Governing Board Res. No. 2022-68|2|",
+      "lib_mpath": "lco-nsn/law-rdf|us/nsn/lco/council/resolutions|2022|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Governing Board Res. No. 2022-68",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "Section 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/lco/council/resolutions/2022/2022-68#3",
+      "doc_mpath": "Lac Courte Oreilles Tribal Governing Board Res. No. 2022-68|3|",
+      "lib_mpath": "lco-nsn/law-rdf|us/nsn/lco/council/resolutions|2022|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2024-10-30",
+  "codified_date": "2022-07-11",
+  "reasons": {
+    "Lac Courte Oreilles Tribal Governing Board Res. No. 2022-68": [
+      "created"
+    ]
+  }
+}
