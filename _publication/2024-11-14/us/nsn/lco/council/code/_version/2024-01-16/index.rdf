@@ -1,0 +1,215 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-14</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:isVersionOf rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/us/nsn/lco/council/code"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Title TCT Tribal Court(§§ TCT.1.1.010 – TCT.5.4.010)
+Title MCC Meetings, Committees, and Commissions(§§ MCC.1.1.010 – MCC.6.3.080)
+Title CTZ Citizenship(§§ CTZ.1.1.010 – CTZ.2.4.060)
+Title GWE General Welfare Exclusion(§§ GWE.1.1.010 – GWE.2.1.040)
+Title ELE Elections(§§ ELE.1.1.010 – ELE.2.4.170)
+Title CSV Conservation(§§ CSV.1.1.010 – CSV.8.11.010)
+Title DMR Domestic Relations(§§ DMR.1.1.010 – DMR.7.13.040)
+Title GNC General Conduct(§§ GNC.4.1.010 – GNC.5.3.050)
+Title VEH Vehicles(§§ VEH.3.1.010 – VEH.4.5.040)
+Title PHS Public Health and Safety(§§ PHS.1.1.010 – PHS.7.1.400)
+Title PRP Property(§§ PRP.7.1.010 – PRP.10.5.160)
+Title CMP Commercial Practices(§§ CMP.1.1.010 – CMP.6.6.080)
+Title LLC Limited Liability Company(§§ LLC.1.1.010 – LLC.1.9.180)
+Title ITP Information Technology Policy(§§ ITP.1.1.010 – ITP.1.5.010)
+Title PAP Policies and Procedures(§§ PAP.1.1.010 – PAP.22.11.040)
+Attachments
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">Lac Courte Oreilles Tribal Code of Law.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2024-11-14/2024-01-16]: Lac Courte Oreilles Tribal Code of Law</rdfs:label>
+    <oll:codifiedDate>2024-01-16</oll:codifiedDate>
+    <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-01-16</oll:dateCurrentThrough>
+    <oll:docId>Lac Courte Oreilles Tribal Code of Law</oll:docId>
+    <oll:hasChanges rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14"/>
+    <oll:lastCodifiedDocument rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/us/nsn/lco/council/resolutions/2024/2024-07"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.1.030">
+    <oll:cite xml:lang="en">Section CSV.8.1.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.1|CSV.8.1.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.1.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.1.040">
+    <oll:cite xml:lang="en">Section CSV.8.1.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.1|CSV.8.1.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.1.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.1.050">
+    <oll:cite xml:lang="en">Section CSV.8.1.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.1|CSV.8.1.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.1.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.1.070">
+    <oll:cite xml:lang="en">Section CSV.8.1.070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.1|CSV.8.1.070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.1.070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.11.010">
+    <oll:cite xml:lang="en">Section CSV.8.11.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.11|CSV.8.11.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.11.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.2.010">
+    <oll:cite xml:lang="en">Section CSV.8.2.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.2|CSV.8.2.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.2.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.3.010">
+    <oll:cite xml:lang="en">Section CSV.8.3.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.3|CSV.8.3.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.3.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.3.020">
+    <oll:cite xml:lang="en">Section CSV.8.3.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.3|CSV.8.3.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.3.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.3.040">
+    <oll:cite xml:lang="en">Section CSV.8.3.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.3|CSV.8.3.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.3.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.4.030">
+    <oll:cite xml:lang="en">Section CSV.8.4.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.4|CSV.8.4.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.4.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.5.010">
+    <oll:cite xml:lang="en">Section CSV.8.5.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.5|CSV.8.5.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.5.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.5.020">
+    <oll:cite xml:lang="en">Section CSV.8.5.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.5|CSV.8.5.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.5.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.5.030">
+    <oll:cite xml:lang="en">Section CSV.8.5.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.5|CSV.8.5.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.5.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.6.010">
+    <oll:cite xml:lang="en">Section CSV.8.6.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.6|CSV.8.6.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.6.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.6.020">
+    <oll:cite xml:lang="en">Section CSV.8.6.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.6|CSV.8.6.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.6.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.7">
+    <oll:cite xml:lang="en">Subchapter CSV.8.7</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.7|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.7</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.7.010">
+    <oll:cite xml:lang="en">Section CSV.8.7.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.7|CSV.8.7.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.7.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.8.010">
+    <oll:cite xml:lang="en">Section CSV.8.8.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.8|CSV.8.8.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.8.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.8.020">
+    <oll:cite xml:lang="en">Section CSV.8.8.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.8|CSV.8.8.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.8.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.8.030">
+    <oll:cite xml:lang="en">Section CSV.8.8.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.8|CSV.8.8.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.8.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.8.040">
+    <oll:cite xml:lang="en">Section CSV.8.8.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.8|CSV.8.8.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.8.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.9.010">
+    <oll:cite xml:lang="en">Section CSV.8.9.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Code of Law|CSV|CSV.8|CSV.8.9|CSV.8.9.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/code/CSV.8.9.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/_changes">
+    <rdf:_10 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.4.030"/>
+    <rdf:_11 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.5.010"/>
+    <rdf:_12 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.5.020"/>
+    <rdf:_13 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.5.030"/>
+    <rdf:_14 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.6.010"/>
+    <rdf:_15 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.6.020"/>
+    <rdf:_16 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.7"/>
+    <rdf:_17 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.7.010"/>
+    <rdf:_18 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.8.010"/>
+    <rdf:_19 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.8.020"/>
+    <rdf:_1 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.1.030"/>
+    <rdf:_20 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.8.030"/>
+    <rdf:_21 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.8.040"/>
+    <rdf:_22 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.9.010"/>
+    <rdf:_2 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.1.040"/>
+    <rdf:_3 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.1.050"/>
+    <rdf:_4 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.1.070"/>
+    <rdf:_5 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.11.010"/>
+    <rdf:_6 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.2.010"/>
+    <rdf:_7 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.3.010"/>
+    <rdf:_8 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.3.020"/>
+    <rdf:_9 rdf:resource="https://law.lco-nsn.gov/_publication/2024-11-14/_date/2024-01-16/us/nsn/lco/council/code/CSV.8.3.040"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
