@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PRP.9.4.050",
+      "ptag": "section",
+      "cite": "Section PRP.9.4.050",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/lco/council/code/PRP.9.4.050",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PRP|PRP.9|PRP.9.4|PRP.9.4.050|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PRP.9.6.010",
+      "ptag": "section",
+      "cite": "Section PRP.9.6.010",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/lco/council/code/PRP.9.6.010",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PRP|PRP.9|PRP.9.6|PRP.9.6.010|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2022",
+      "url": "/us/nsn/lco/council/resolutions/2022",
+      "lib_mpath": "lco-nsn/law-rdf|us/nsn/lco/council/resolutions|2022|",
+      "docs_changes": {
+        "Lac Courte Oreilles Tribal Governing Board Res. No. 2022-47": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Governing Board Res. No. 2022-47",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added",
+        "Element effective"
+      ],
+      "url": "/us/nsn/lco/council/resolutions/2022/2022-47",
+      "doc_mpath": "Lac Courte Oreilles Tribal Governing Board Res. No. 2022-47|",
+      "lib_mpath": "lco-nsn/law-rdf|us/nsn/lco/council/resolutions|2022|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-01-31",
+  "codified_date": "2022-05-17",
+  "reasons": {
+    "Lac Courte Oreilles Tribal Governing Board Res. No. 2022-47": [
+      "created",
+      "effective"
+    ]
+  }
+}
