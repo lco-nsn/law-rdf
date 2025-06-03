@@ -1,0 +1,28 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2025-06-03/_date/2021-12-20/us/nsn/lco/council/resolutions/2016/16-82">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-06-03</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.lco-nsn.gov/us/nsn/lco/council/resolutions/2016/16-82/us/nsn/lco/council/resolutions/2016/adopted/16-82.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.lco-nsn.gov/_publication/2025-06-03/us/nsn/lco/council/resolutions/2016/16-82"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Resolution No. 16-82 — Establishment of Title XIV, Chapter 1 of the Lac Courte Oreilles Band of Lake Superior Chippewa Indians Tribal Code of Law Government Personnel Policies and Procedures</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2025-06-03/2021-12-20]: Lac Courte Oreilles Tribal Governing Board Res. No. 16-82</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-12-20</oll:codifiedDate>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-08-22</oll:dateAdopted>
+    <oll:docId>Lac Courte Oreilles Tribal Governing Board Res. No. 16-82</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Governing Board Res. No. 16-82|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.lco-nsn.gov/_publication/2025-06-03/_date/2021-12-20/us/nsn/lco/council/resolutions/2016/16-82/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.lco-nsn.gov/_publication/2025-06-03"/>
+    <oll:number>16-82</oll:number>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/resolutions/2016/16-82</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2025-06-03/_date/2021-12-20/us/nsn/lco/council/resolutions/2016/16-82/_changes">
+    <rdf:_1 rdf:resource="https://law.lco-nsn.gov/_publication/2025-06-03/_date/2021-12-20/us/nsn/lco/council/resolutions/2016/16-82"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
