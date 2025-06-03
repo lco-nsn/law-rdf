@@ -1,0 +1,32 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2025-06-03/_date/2024-07-29/us/nsn/lco/council/resolutions/2024/2024-78">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-06-03</dcterms:available>
+    <dcterms:creator xml:lang="en">Open Law Library</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.lco-nsn.gov/us/nsn/lco/council/resolutions/2024/2024-78/us/nsn/lco/council/resolutions/2024/adopted/2024-78.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.lco-nsn.gov/_publication/2025-06-03/us/nsn/lco/council/resolutions/2024/2024-78"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:title xml:lang="en">Resolution No. 2024-78 — Amendment to the Lac Courte Oreilles Tribal Code of Law Meeting Ordinance MCC.2</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+    <rdfs:label xml:lang="en">[2025-06-03/2024-07-29]: Lac Courte Oreilles Tribal Governing Board Res. No. 2024-78</rdfs:label>
+    <oll:buildReason xml:lang="en">created</oll:buildReason>
+    <oll:buildReason xml:lang="en">effective</oll:buildReason>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2024-07-29</oll:codifiedDate>
+    <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-07-29</oll:dateAdopted>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-07-29</oll:dateEffective>
+    <oll:docId>Lac Courte Oreilles Tribal Governing Board Res. No. 2024-78</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Lac Courte Oreilles Tribal Governing Board Res. No. 2024-78|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.lco-nsn.gov/_publication/2025-06-03/_date/2024-07-29/us/nsn/lco/council/resolutions/2024/2024-78/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.lco-nsn.gov/_publication/2025-06-03"/>
+    <oll:number>2024-78</oll:number>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/lco/council/resolutions/2024/2024-78</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.lco-nsn.gov/_publication/2025-06-03/_date/2024-07-29/us/nsn/lco/council/resolutions/2024/2024-78/_changes">
+    <rdf:_1 rdf:resource="https://law.lco-nsn.gov/_publication/2025-06-03/_date/2024-07-29/us/nsn/lco/council/resolutions/2024/2024-78"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
