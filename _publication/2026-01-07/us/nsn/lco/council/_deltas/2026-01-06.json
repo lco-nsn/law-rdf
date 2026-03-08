@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "doc": "Lac Courte Oreilles Tribal Code of Law",
+      "path": "|PAP.22.7.050",
+      "ptag": "section",
+      "cite": "Section PAP.22.7.050",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/lco/council/code/PAP.22.7.050",
+      "doc_mpath": "Lac Courte Oreilles Tribal Code of Law|PAP|PAP.22|PAP.22.7|PAP.22.7.050|",
+      "lib_mpath": "lco-nsn/law-rdf|",
+      "reason": null
+    },
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "us/nsn/lco/council/resolutions",
+      "url": "/us/nsn/lco/council/resolutions",
+      "lib_mpath": "lco-nsn/law-rdf|us/nsn/lco/council/resolutions|",
+      "docs_changes": {},
+      "colls_changes": {
+        "2026": "Element added"
+      },
+      "ptag": "collection"
+    },
+    {
+      "statuses": [
+        "Element added"
+      ],
+      "name": "2026",
+      "url": "/us/nsn/lco/council/resolutions/2026",
+      "lib_mpath": "lco-nsn/law-rdf|us/nsn/lco/council/resolutions|2026|",
+      "docs_changes": {
+        "Lac Courte Oreilles Tribal Governing Board Res. No. 2026-01": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Lac Courte Oreilles Tribal Governing Board Res. No. 2026-01",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added",
+        "Element effective"
+      ],
+      "url": "/us/nsn/lco/council/resolutions/2026/2026-01",
+      "doc_mpath": "Lac Courte Oreilles Tribal Governing Board Res. No. 2026-01|",
+      "lib_mpath": "lco-nsn/law-rdf|us/nsn/lco/council/resolutions|2026|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-01-07",
+  "codified_date": "2026-01-06",
+  "reasons": {
+    "Lac Courte Oreilles Tribal Governing Board Res. No. 2026-01": [
+      "created",
+      "effective"
+    ]
+  }
+}
